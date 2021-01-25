@@ -1,6 +1,6 @@
 cypress example test-website
 
-This is a basic example of Cypress and react website
+This is a basic example of Cypress, react website [httpbin swaggar](https://httpbin.org/)
 
 
 Prerequisites
