@@ -29,7 +29,7 @@ To install the test suite locally, including the above npm dependencies:
 
 ### Local
 
-To run the tests locally against the test portal environment:
+To run the tests locally against the test app environment http://localhost:3000/:
 
-1. Start App `Yarn run start`
+1. Start App `Yarn run start
 2. Run `yarn run test`
