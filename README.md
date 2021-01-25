@@ -11,12 +11,12 @@ Prerequisites
 The app & test suite also has a bunch of yarn dependencies which will be installed when you follow the installation
 steps below.
 
-* [Cypress] (https://www.cypress.io/)
-* [React] (https://reactjs.org/)
-* [formik] (https://formik.org/)
-* [node-fetch] (https://www.npmjs.com/package/node-fetch)
-* [msw] (https://mswjs.io/)
-* [@testing-library/cypress] (https://testing-library.com/docs/cypress-testing-library/intro/)
+* [Cypress](https://www.cypress.io/)
+* [React](https://reactjs.org/)
+* [formik](https://formik.org/)
+* [node-fetch](https://www.npmjs.com/package/node-fetch)
+* [msw](https://mswjs.io/)
+* [@testing-library/cypress](https://testing-library.com/docs/cypress-testing-library/intro/)
 
 
 Installation
