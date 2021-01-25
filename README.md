@@ -8,7 +8,7 @@ Prerequisites
 
 1. Download and install [Yarn](https://classic.yarnpkg.com/en/docs/installing-dependencies/).
 
-The test suite also has a bunch of yarn dependencies which will be installed when you follow the installation
+The app & test suite also has a bunch of yarn dependencies which will be installed when you follow the installation
 steps below.
 
 * [Cypress] (https://www.cypress.io/)
